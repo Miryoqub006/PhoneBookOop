@@ -1,4 +1,4 @@
-# C# OOP Project - Registration
+# C# OOP Project - PhoneBook
 
 This project is created using C# programming language and object-oriented programming (OOP) principles. This project allows users to register, store and view their data.
 
@@ -26,5 +26,9 @@ This project is created using C# programming language and object-oriented progra
 ![image](https://github.com/Miryoqub006/PhoneBookOop/assets/158826997/6bb0ce54-7400-49e0-866a-5dd5b696c4bb)
 ## Interface IFIleBroker
 ![image](https://github.com/Miryoqub006/PhoneBookOop/assets/158826997/7b544ce5-9655-4140-9c5e-3bcf1f43fa3e)
+
+# Main Class 
+## Users Datas Class
+![image](https://github.com/Miryoqub006/PhoneBookOop/assets/158826997/c7370ea1-59c5-4545-9ec2-7151e8adf156)
 
 
